@@ -1,0 +1,18 @@
+[
+  {
+    "username": "Admin",
+    "email": "admin@gmail.com",
+    "password": "admin123",
+    "phoneNumber": "123456789",
+    "address": "Green Office Park 1",
+    "imageUrl": "https://areatopik.com/wp-content/uploads/2022/10/Kobo-Nangis.jpg"
+  },
+  {
+    "username": "User",
+    "email": "user@gmail.com",
+    "password": "user123",
+    "phoneNumber": "123456789",
+    "address": "Green Office Park 2",
+    "imageUrl": "https://areatopik.com/wp-content/uploads/2022/10/Kobo-Nangis.jpg"
+  }
+]
