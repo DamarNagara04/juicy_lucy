@@ -1,6 +1,6 @@
 # Juicy Lucy
 
-Juicy Lucy is my personal project i created in my time studying in Hacktiv8,
+Juicy Lucy is my personal project i created in my time studying in Hacktiv8, I plan to redevelop it or recreate it using Nextjs (app/page) to train my self better also. Wether i'll delete this or create new one we'll see..
 
 ## Installation
 
